@@ -1,6 +1,6 @@
 # Title: nielsdimmers/hosts
 #
-# this host file blocks Dutch gambling websites as specified by Dutch government (https://kansspelautoriteit.nl/veilig-spelen/kansspelwijzer/)
+# This host file blocks Dutch gambling websites as specified by Dutch government (https://kansspelautoriteit.nl/veilig-spelen/kansspelwijzer/) and other gambling related sites I stumbled upon
 #
 # Date: 08 May 2025 19:45:00 (UTC)
 # Extensions added to this file: gambling
@@ -35,6 +35,8 @@ ff02::3 ip6-allhosts
 # Title: Hosts contributed by Niels Dimmers
 # https://www.linkedin.com/in/nielsdimmers/
 
+# NL Government sites
+
 0.0.0.0 betmgm.nl
 0.0.0.0 711.nl
 0.0.0.0 circus.nl
@@ -64,3 +66,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 comeon.nl
 0.0.0.0 zebet.nl
 0.0.0.0 zeturf.nl
+
+# Other sites
+0.0.0.0 247slots.com
+0.0.0.0 casinotrust.com
